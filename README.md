@@ -10,6 +10,12 @@ Before using this implementation, make sure you have the following requirements 
 - PyTorch (>=1.8.0)
 - Pytorch Geometric (>=1.7.0)
 
+## Data
+
+The SUMO data can be downloaded [here](https://www.dropbox.com/scl/fo/etcsipbottsio52i65173/h?rlkey=vv5aqp3srvh63vsrjv45wksve&dl=0). Both files should be placed in the data/raw_dir folder.
+
+The MetrLA data will be downloaded automatically when running the main.py script for the first time.
+
 ## Usage
 
 Execute the main.py script with the following arguments:
